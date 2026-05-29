@@ -27,6 +27,7 @@
 
     <ItemGroup>
         <Folder Include="News\Infrastructure\Persistence\EFC\"/>
+        <Folder Include="Resources\" />
     </ItemGroup>
 
 </Project>
